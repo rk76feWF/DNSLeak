@@ -1,0 +1,8 @@
+;; Connection to 125.208.49.10#53(125.208.49.10) for HK failed: timed out.
+;; Connection to 125.208.49.10#53(125.208.49.10) for HK failed: timed out.
+
+; <<>> DiG 9.16.23-RH <<>> HK @125.208.49.10 axfr
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+;; Connection to 125.208.49.10#53(125.208.49.10) for HK failed: timed out.

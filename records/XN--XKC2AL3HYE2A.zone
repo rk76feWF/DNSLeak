@@ -1,0 +1,8 @@
+;; Connection to 123.231.18.49#53(123.231.18.49) for XN--XKC2AL3HYE2A failed: timed out.
+;; Connection to 123.231.18.49#53(123.231.18.49) for XN--XKC2AL3HYE2A failed: timed out.
+
+; <<>> DiG 9.16.23-RH <<>> XN--XKC2AL3HYE2A @123.231.18.49 axfr
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+;; Connection to 123.231.18.49#53(123.231.18.49) for XN--XKC2AL3HYE2A failed: timed out.

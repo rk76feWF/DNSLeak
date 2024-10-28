@@ -1,0 +1,8 @@
+;; Connection to 203.223.32.3#53(203.223.32.3) for KH failed: timed out.
+;; Connection to 203.223.32.3#53(203.223.32.3) for KH failed: timed out.
+
+; <<>> DiG 9.16.23-RH <<>> KH @203.223.32.3 axfr
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+;; Connection to 203.223.32.3#53(203.223.32.3) for KH failed: timed out.

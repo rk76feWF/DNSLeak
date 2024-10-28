@@ -1,0 +1,8 @@
+;; Connection to 41.138.85.98#53(41.138.85.98) for RW failed: timed out.
+;; Connection to 41.138.85.98#53(41.138.85.98) for RW failed: timed out.
+
+; <<>> DiG 9.16.23-RH <<>> RW @41.138.85.98 axfr
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+;; Connection to 41.138.85.98#53(41.138.85.98) for RW failed: timed out.

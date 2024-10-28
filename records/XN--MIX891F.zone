@@ -1,0 +1,8 @@
+;; Connection to 137.189.6.21#53(137.189.6.21) for XN--MIX891F failed: timed out.
+;; Connection to 137.189.6.21#53(137.189.6.21) for XN--MIX891F failed: timed out.
+
+; <<>> DiG 9.16.23-RH <<>> XN--MIX891F @137.189.6.21 axfr
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+;; Connection to 137.189.6.21#53(137.189.6.21) for XN--MIX891F failed: timed out.

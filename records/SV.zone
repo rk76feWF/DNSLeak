@@ -1,0 +1,8 @@
+;; Connection to 131.100.140.162#53(131.100.140.162) for SV failed: timed out.
+;; Connection to 131.100.140.162#53(131.100.140.162) for SV failed: timed out.
+
+; <<>> DiG 9.16.23-RH <<>> SV @131.100.140.162 axfr
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+;; Connection to 131.100.140.162#53(131.100.140.162) for SV failed: timed out.

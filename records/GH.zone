@@ -1,0 +1,8 @@
+;; Connection to 197.253.95.251#53(197.253.95.251) for GH failed: timed out.
+;; Connection to 197.253.95.251#53(197.253.95.251) for GH failed: timed out.
+
+; <<>> DiG 9.16.23-RH <<>> GH @197.253.95.251 axfr
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+;; Connection to 197.253.95.251#53(197.253.95.251) for GH failed: timed out.

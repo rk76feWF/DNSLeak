@@ -1,0 +1,8 @@
+;; Connection to 200.9.115.2#53(200.9.115.2) for JM failed: timed out.
+;; Connection to 200.9.115.2#53(200.9.115.2) for JM failed: timed out.
+
+; <<>> DiG 9.16.23-RH <<>> JM @200.9.115.2 axfr
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+;; Connection to 200.9.115.2#53(200.9.115.2) for JM failed: timed out.
